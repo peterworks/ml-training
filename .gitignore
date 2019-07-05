@@ -1,0 +1,4 @@
+/.vscode/
+/classes/__pycache__/
+/discriminator.pth
+/generator.pth
